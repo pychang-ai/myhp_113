@@ -15,7 +15,7 @@ git push
 git pull
 
 ## advanent
-git stash 
 git branch
+git stash 
 git checkout
 git log
