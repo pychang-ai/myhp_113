@@ -14,8 +14,8 @@ git commit -m "message"
 git push
 git pull
 
-## advanent
+## advanent for test
+git log
 git branch
 git stash 
 git checkout
-git log
